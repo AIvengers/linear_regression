@@ -1,2 +1,2 @@
 # linear_regression
-Régression linéaire simple avec numpy
+Régression linéaire simple avec NUMPY
